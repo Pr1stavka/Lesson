@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/*       -----HEADER----- */
+
+.header {
+    position: relative;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+}
+
+container {
+    width: 70px;
+}
+
+.logo {
+    width: 70px;
+}
+
+.logo .logo_img {
+    position: absolute;
+    left: 140px;
+    top: 15px;
+    width: 40px;
+    height: 40px;
+    /* Primary Gradient */
+    /* Vector */
+    /* Primary Gradient */
+}
+
+.logo .logo_img1 {
+    position: absolute;
+    left: 149.41px;
+    top: 30.29px;
+    /*   position: absolute; */
+}
+
+.logo .logo_img2 {
+    position: absolute;
+    left: 161.47px;
+    top: 30.29px;
+}
+
+.logo .logo_img3 {
+    position: absolute;
+    width: 53.19px;
+    height: 12.95px;
+    left: 192.5px;
+    top: 28.33px;
+}
+
+
+/*    ---MAIN--- */
+
+.promo {
+    margin-top: 70px;
+    height: 830px;
+    background: url('../img/Main/image 3.png') center center/ cover no-repeat;
+}
+
+.container {
+    width: vw;
+}
